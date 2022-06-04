@@ -16,6 +16,12 @@
 </div><div style='display: inline_block'>
   <img align='center' alt='SQLite' src='https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white'/>
 </div>
+<div style='display: inline_block'>
+  <img align='center' alt='Bootstrap' src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white'/>
+</div>
+<div style='display: inline_block'>
+  <img align='center' alt='HTML5' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'/>
+</div>
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
