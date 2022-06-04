@@ -6,7 +6,7 @@
 
 
 
+###My stack
 
 
-
-![Joao GitHub stats](https://github-readme-stats.vercel.app/api?username=Joaogabs1346&show_icons=true&theme=dracula)
+![Joao GitHub stats](https://github-readme-stats.vercel.app/api?username=Joaogabs1346&show_icons=true&theme=synthwave)
