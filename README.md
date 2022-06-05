@@ -21,6 +21,7 @@
     <img align="center" alt="Amazon_AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img align="center" alt="Google_Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </div><br/>
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![Joao GitHub stats](https://github-readme-stats.vercel.app/api?username=Joaogabs1346&show_icons=true&theme=synthwave)
