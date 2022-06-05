@@ -1,4 +1,7 @@
 ### Welcome everyone to my profile! 🚀
+Data Science e Machine Learning💘
+
+
 [![Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@joogabrieldesouza)
 [![WebSite](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://joao-gabriel-portfolio-website.herokuapp.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaogabrieldsp/)
@@ -31,4 +34,3 @@
 
 
 
-![Joao GitHub stats](https://github-readme-stats.vercel.app/api?username=Joaogabs1346&show_icons=true&theme=synthwave)
