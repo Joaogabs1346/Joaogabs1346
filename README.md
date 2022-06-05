@@ -14,14 +14,14 @@
   <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </div><br/>
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Stack Cloud 🛰️
 <div style="display: inline_block">
     <img align="center" alt="Amazon_AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img align="center" alt="Google_Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </div><br/>
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Stack Databases 🪐 
 <div style="display: inline_block">
 <img align="center" alt="SQLite" src='https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white'/>
@@ -29,7 +29,6 @@
 <img align="center" alt="PostgreSQL" src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white'/>    
 </div><br/>
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
