@@ -1,5 +1,5 @@
 ### Welcome everyone to my profile! 🚀
-Data Science e Machine Learning💘
+Data Science and Machine Learning💘
 
 
 [![Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@joogabrieldesouza)
