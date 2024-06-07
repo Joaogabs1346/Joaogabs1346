@@ -1,3 +1,8 @@
+
+![chobits-chi-and-freya-6ijrdfxwfa57wmma](https://github.com/Joaogabs1346/Joaogabs1346/assets/68170368/31eefcb4-0f97-4a21-bcbb-e5caee9b8ebc)
+
+
+
 Welcome everyone to my profile! 🚀
 Data Science and Machine Learning💘
 
