@@ -1,5 +1,6 @@
 
-![chobits-chi-and-freya-6ijrdfxwfa57wmma](https://github.com/Joaogabs1346/Joaogabs1346/assets/68170368/31eefcb4-0f97-4a21-bcbb-e5caee9b8ebc)
+$$\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 5; position: fixed; left: 50dvi; top: 50dvb; width: 80dvmin; background-position: 0 0; height: 80dvmin; translate: -50% -50%; opacity: 1; background-repeat: no-repeat; background-size: 100% 100%; animation: 3.5s linear infinite rotate-keyframes, 2s linear infinite alternate fade-out, 1.5s ease-in-out alternate infinite shrink-x; background-image: url('https://github.com/Joaogabs1346/Joaogabs1346/assets/68170368/31eefcb4-0f97-4a21-bcbb-e5caee9b8ebc');]{x0000;}$}$$
+
 
 
 
