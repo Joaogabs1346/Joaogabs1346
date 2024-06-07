@@ -1,7 +1,4 @@
 
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/Joaogabs1346/Joaogabs1346/blob/main/chobits-chi-and-freya-6ijrdfxwfa57wmma.jpg');]%7Bx0000%7D$%7D
-
-
 Welcome everyone to my profile! 🚀
 Data Science and Machine Learning💘
 
