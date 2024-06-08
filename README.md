@@ -1,5 +1,6 @@
 $$\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover;
-background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/Joaogabs1346/Joaogabs1346/blob/main/ransom.png?raw=true');{x0000}$}$$
+background-size: cover; width: 130vw; opacity: 0.5; background: url('![image](https://github.com/Joaogabs1346/Joaogabs1346/assets/68170368/b3f1dee2-94ff-47f2-888a-65251d2316d9)');{x0000}$}$$
+
 
 
 
