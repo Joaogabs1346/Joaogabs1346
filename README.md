@@ -1,4 +1,4 @@
-$$\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('ransom.png');]{x0000}$}$$
+$$\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.institutodecegosdabahia.org.br%2Fchobits-20th-anniversary-edition-3-clamp-9781646510184-dd-Mv34aGI5&psig=AOvVaw1wRzIkvszJ7hwCexnEhdBw&ust=1717894327093000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKD4u5vlyoYDFQAAAAAdAAAAABAE');]{x0000}$}$$
 
 
 Welcome everyone to my profile! 🚀
