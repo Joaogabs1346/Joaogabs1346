@@ -33,4 +33,4 @@ Stack Databases 🪐
 
   
 ```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/Joaogabs1346/Joaogabs1346/blob/main/7B1DF47F4FB903569768422B7DF289A9C4273F23-1539289162.jpeg?raw=true');]{x0000}$}
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/Joaogabs1346/Joaogabs1346/blob/main/wp8738483-2690408260.jpg?raw=true');]{x0000}$}
