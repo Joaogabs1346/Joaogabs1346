@@ -1,4 +1,4 @@
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('[https://github.com/nayaralucia/nayaralucia/blob/main/kuchie_p06-07.jpg](https://github.com/Joaogabs1346/Joaogabs1346/blob/main/ransom.png)?raw=true');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/Joaogabs1346/Joaogabs1346/blob/main/ransom.png)?raw=true');]{x0000}$}
 
 Welcome everyone to my profile! 🚀
 Data Science and Machine Learning💘
