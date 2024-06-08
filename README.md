@@ -1,4 +1,3 @@
-$$\ce{\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github-production-user-asset-6210df.s3.amazonaws.com/68170368/337821947-b3f1dee2-94ff-47f2-888a-65251d2316d9.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240608%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240608T004803Z&X-Amz-Expires=300&X-Amz-Signature=77d7d2a306f8d7bf67daae85cf249bb434d66ff600d8276ca847d2b10e495b4b&X-Amz-SignedHeaders=host&actor_id=68170368&key_id=0&repo_id=499955359');}{x0000}$$$
 
 
 
